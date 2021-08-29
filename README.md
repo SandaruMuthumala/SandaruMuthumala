@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Sandaru Muthumala</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sandarumuthumala&label=Profile%20views&color=0e75b6&style=flat" alt="sandarumuthumala" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sandarumuthumala&label=Profile%20views&color=0e75b6&style=flat" alt="SandaruMuthumala" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sandarumuthumala" alt="sandarumuthumala" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sandarumuthumala" alt="SandaruMuthumala" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/sandarumuthumala" target="blank"><img src="https://img.shields.io/twitter/follow/sandarumuthumala?logo=twitter&style=for-the-badge" alt="sandarumuthumala" /></a> </p>
+<p align="left"> <a href="https://twitter.com/SandaruMuthumal" target="blank"><img src="https://img.shields.io/twitter/follow/SandaruMuthumal?logo=twitter&style=for-the-badge" alt="SandaruMuthumala" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/sandarumuthumala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sandarumuthumala" height="30" width="40" /></a>
+<a href="https://twitter.com/SandaruMuthumal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="SandaruMuthumala" height="30" width="40" /></a>
 <a href="https://fb.com/viharasenindu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="viharasenindu" height="30" width="40" /></a>
-<a href="https://instagram.com/sandarumuthumala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sandarumuthumala" height="30" width="40" /></a>
+<a href="https://instagram.com/sandaru_muthumala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sandarumuthumala" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/sandarumuthumala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="sandarumuthumala" height="30" width="40" /></a>
 </p>
 
